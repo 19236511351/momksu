@@ -2,6 +2,8 @@
 
 # KernelSU
 
+> 本仓库是 **momksu**：KernelSU 的个人 fork，与上游保持一致，仅供学习与实验。
+
 <img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
 
 一个 Android 上基于内核的 root 方案。

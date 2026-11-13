@@ -2,6 +2,8 @@
 
 # KernelSU
 
+> This repository is **momksu**: a personal fork of KernelSU, kept in sync with upstream, for learning and experiments only.
+
 <img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
 
 A kernel-based root solution for Android devices.
